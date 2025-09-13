@@ -44,9 +44,7 @@ Then I logged in as the user "John" and was able to observe the ticke that I sub
 <p>
 <img width="776" height="700" alt="image" src="https://github.com/user-attachments/assets/2958bb5d-a3d4-4ce9-a4e9-3241b4372cf0" />
 
-<p>
 I changed the service level agreement to plan A and updated help topic to reportt a problem business critical outage then assigned it to user Jane on the online banking team.
-
 
  <img width="547" height="523" alt="image" src="https://github.com/user-attachments/assets/03140177-c6a3-4f62-9ba9-74207163885b" />
 
