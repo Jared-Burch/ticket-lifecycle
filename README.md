@@ -6,10 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -30,25 +26,32 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="664" height="765" alt="image" src="https://github.com/user-attachments/assets/51a7da49-3e93-43f9-894a-cadaba598ccf" />
+
+First I created a ticket reporting an issue with online banking as the user "Karen" that I previously created.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="765" height="354" alt="image" src="https://github.com/user-attachments/assets/b705479a-137b-4e40-a0f4-5c9840db33e2" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then I logged in as the user "John" and was able to observe the ticke that I submitted as Karen.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="776" height="700" alt="image" src="https://github.com/user-attachments/assets/2958bb5d-a3d4-4ce9-a4e9-3241b4372cf0" />
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+I changed the service level agreement to plan A and updated help topic to reportt a problem business critical outage then assigned it to user Jane on the online banking team.
+
+
+ <img width="547" height="523" alt="image" src="https://github.com/user-attachments/assets/03140177-c6a3-4f62-9ba9-74207163885b" />
+
+
+as user Jane. resolved the ticket by clicking "open" and changing it to resolved.
+
+  To recap, I created a ticket as user Karen and observed it as user John where I was able to change the SLA and topic then assign it to user Jane on the online banking team and as Jane I resolved the ticket. By doing this I was able to show how giving different users and teams diferent accesses and permissions can effect how users are able to interact with the software.  
+
